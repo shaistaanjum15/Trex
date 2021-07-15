@@ -65,6 +65,7 @@ function setup() {
   cloudsGroup = new Group();
   obstaclesGroup = new Group();
   
+  console.log("hanges made for reference");
   score = 0;
 }
 
